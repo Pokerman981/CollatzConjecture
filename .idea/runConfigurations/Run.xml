@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="me.pokerman99.CollatzConjecture.main" />
+    <module name="CollatzConjecture" />
+    <option name="VM_PARAMETERS" value="-XX:+UnlockCommercialFeatures" />
+    <extension name="coverage" sample_coverage="false" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
